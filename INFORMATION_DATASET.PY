@@ -2,7 +2,7 @@ import pandas as pd
 import sqlite3
 import matplotlib.pyplot as plt
 
-# PAHLE MENE PANDAS KA USE KARA 
+ 
 data1 = {
     'DATE': ['01/03/26', '02/03/26', '03/03/26', '04/03/26', '05/03/26', '06/03/26', '07/03/26', '08/03/26', '09/03/26', '10/03/26'],
     'PRODUCTS': ['Laptop', 'Mouse', 'Keyboard', 'Monitor', 'Laptop', 'Mouse', 'Keyboard', 'Monitor', 'Laptop', 'Mouse'],
